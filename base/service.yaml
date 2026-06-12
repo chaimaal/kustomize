@@ -8,4 +8,4 @@ spec:
     app: clinic-front
   ports:
   # Default port used by the image
-  - port: 8080s
+  - port: 8080
